@@ -1,0 +1,43 @@
+{
+  "posts" : [
+    [
+      {
+        "id": 1,
+        "name": "John Doe",
+        "movie_name": "The Adventure Begins",
+        "ratings": 4.5
+      },
+      {
+        "id": 2,
+        "name": "Jane Smith",
+        "movie_name": "Secrets of the Forest",
+        "ratings": 3.8
+      },
+      {
+        "id": 3,
+        "name": "Michael Johnson",
+        "movie_name": "City of Dreams",
+        "ratings": 4.2
+      },
+      {
+        "id": 4,
+        "name": "Emily Brown",
+        "movie_name": "Midnight Shadows",
+        "ratings": 4.0
+      },
+      {
+        "id": 5,
+        "name": "David Wilson",
+        "movie_name": "Echoes of the Past",
+        "ratings": 4.7
+      },
+      {
+        "id": 6,
+        "name": "Sophia Martinez",
+        "movie_name": "Beyond the Horizon",
+        "ratings": 3.9
+      }
+    ]
+
+  ]
+}
